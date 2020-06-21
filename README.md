@@ -1,21 +1,5 @@
-# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
+# <a href="https://github.com/Alien58/PROG8110-Assignment1" target="_blank">PROG8110 - Assignment 1</a>
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+User interface for the web from a student of Rich Hildred, Pat Wilken - A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
 
-A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
-
-A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
-
-Marking
------
-
-|Element|Out Of|
-|---|---|
-|get a game or choose your own adventure in es6| 60|
-|count case and if statements|2/3 each up to 20 points|
-|spelling and grammar|10|
-|on time|10|
-
-
-
-
+A choose your own adventure game based on a typical person trying to go to bed early when an interesting turn of events happen when he is trying to sleep.
